@@ -1,6 +1,4 @@
 # MRX_nicking
 .bash and .R scripts used in our MRX nicking paper
 
-New line added in RStudio.
-
-Add another line.
+test
