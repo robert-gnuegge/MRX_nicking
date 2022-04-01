@@ -1,3 +1,3 @@
 # MRX_nicking
-This project .bash and .R scripts used in our MRX nicking paper
+This repositories contains all .bash and .R scripts used in our MRX nicking paper. Please, check the associated publication for software and package versions.
 
