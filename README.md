@@ -1,3 +1,3 @@
 # MRX_nicking
-.bash and .R scripts used in our MRX nicking paper
+This project .bash and .R scripts used in our MRX nicking paper
 
