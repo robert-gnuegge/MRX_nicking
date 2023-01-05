@@ -51,3 +51,5 @@ loaded via a namespace (and not attached):
  [97] gridExtra_2.3            RProtoBufLib_2.8.0       dichromat_2.0-0.1        assertthat_0.2.1         rjson_0.2.21             GenomeInfoDbData_1.2.8  
 [103] hms_1.1.2                rpart_4.1.19             biovizBase_1.44.0        base64enc_0.1-3          interp_1.1-3             restfulr_0.0.15  
 ``` 
+
+This project is licensed under the terms of the MIT license.
