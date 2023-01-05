@@ -1,7 +1,7 @@
 # MRX_nicking
 This repository contains `.bash` and `.R` scripts used in our MRX nicking paper.
 
-Output of `sessionInfo()`:
+See publication for command line software versions. Find R package versions below (output of `sessionInfo()`):
 ```
 R version 4.2.2 Patched (2022-11-10 r83330)
 Platform: x86_64-pc-linux-gnu (64-bit)
