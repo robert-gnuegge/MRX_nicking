@@ -1,4 +1,5 @@
-# MRX_nicking
+# MRX_nicking [![DOI](https://zenodo.org/badge/438784647.svg)](https://zenodo.org/badge/latestdoi/438784647)
+
 This repository contains `.bash` and `.R` scripts used in our MRX nicking paper.
 
 See publication for command line software versions. Find R package versions below (output of `sessionInfo()`):
